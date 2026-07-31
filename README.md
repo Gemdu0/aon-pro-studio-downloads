@@ -5,15 +5,15 @@
 This repository hosts the official Windows installer for Aon Pro Studio.
 It contains **downloads only — no source code**.
 
-- Product site — https://aonprostudio.com
-- Redeem your code — https://aonprostudio.com/redeem
+- Product site — https://aonprostudio.netlify.app
+- Redeem your code — https://aonprostudio.netlify.app/redeem
 - Support — aonprostudio@gmail.com
 
 ---
 
 ## Download
 
-**[⬇ Download the latest release](https://github.com/Gemdu0/AonProStudio-Releases/releases/latest)**
+**[⬇ Download the latest release](https://github.com/Gemdu0/aon-pro-studio-downloads/releases/latest/download/AonProStudio-Setup.exe)**
 
 Or use the permanent direct link, which always points at the newest build:
 
